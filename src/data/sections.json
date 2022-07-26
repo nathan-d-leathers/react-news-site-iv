@@ -1,0 +1,18 @@
+[
+  {
+    "label": "ROBOTICS",
+    "value": "robotics"
+  },
+  {
+    "label": "SOFTWARE",
+    "value": "software"
+  },
+  {
+    "label": "VULNERABILITY",
+    "value": "vulnerability"
+  },
+  {
+    "label": "META",
+    "value": "meta"
+  }
+]
